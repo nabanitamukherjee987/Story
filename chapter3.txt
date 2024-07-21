@@ -1,2 +1,2 @@
 git is a challenge.
-This change is made in outsideuser.
+This change is made in outsideuser to make it better.
